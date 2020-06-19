@@ -10,7 +10,7 @@ layout: home
     <title>Home</title>
   </head>
   <body>
-    <h1>{{ "Hello World!" | downcase }}</h1>
+    <h1>{{ "Hello Jekyll!" | downcase }}</h1>
   </body>
 </html>
 
